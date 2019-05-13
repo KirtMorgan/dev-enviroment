@@ -1,0 +1,1 @@
+{"virtualbox":{"/app":{"guestpath":"/app","hostpath":"/Users/tech-a11/Documents/Eng32/DevEnviroments/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tech-a11/Documents/Eng32/DevEnviroments","disabled":false,"__vagrantfile":true}}}
