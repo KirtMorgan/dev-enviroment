@@ -10,3 +10,6 @@ sudo apt-get install nodejs -y
 
 # Installing pm2
 npm install pm2 -g
+
+# Starting with pm2
+pm2 start app

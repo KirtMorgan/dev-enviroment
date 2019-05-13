@@ -8,4 +8,5 @@ config.vm.synced_folder("app", "/app")
 
 # Provisoning
 config.vm.provision("shell", path: "environment/provision.sh")
+
 end
