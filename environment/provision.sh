@@ -13,4 +13,4 @@ npm install pm2 -g
 
 # Starting with pm2
 cd /app
-pm2 start app.js --name="app"
+pm2 start app.js --name="The App"
