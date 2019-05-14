@@ -12,4 +12,5 @@ sudo apt-get install nodejs -y
 npm install pm2 -g
 
 # Starting with pm2
-pm2 start app
+cd /app
+pm2 start app.js --name="app"
